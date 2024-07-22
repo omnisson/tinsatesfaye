@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on DeepL Project
 - 📫 How to reach me: tinsatesfaye@outlook.com
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: :)
+- ⚡ Fun fact: C#
 
 <!---
 tinsatesfaye/tinsatesfaye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
