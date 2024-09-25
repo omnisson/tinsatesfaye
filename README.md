@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tinsae Tesfaye
+- 👋 Hi, I’m Tinsae Omnisson
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning DeepL
 - 💞️ I’m looking to collaborate on DeepL Project
