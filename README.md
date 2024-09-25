@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tinsae Omnisson
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning DeepL
-- 💞️ I’m looking to collaborate on DeepL Project
+- 🌀 I’m looking to collaborate on DeepL Project
 - 📫 How to reach me: tinsatesfaye@outlook.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: C#
